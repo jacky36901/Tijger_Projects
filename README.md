@@ -1,8 +1,13 @@
 # Tijger_Projects
 
 
+Tijger_Projects
+
+
 Languages:- C, C++, Python, HTML, CSS, JavaScript
 FrameWorks:- ReactJS, NodeJS
+
+Coding requried is Selenium & Python (Essential)
 
 Project_Meeting Details
 
